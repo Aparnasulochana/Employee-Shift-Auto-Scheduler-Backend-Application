@@ -164,7 +164,7 @@ http://localhost:8080/swagger-ui.html
 
 ---
 
-## 🧠 Scheduling Logic
+##  Scheduling Logic
 
 The scheduling engine:
 
@@ -208,7 +208,7 @@ This eliminates conflicts such as double-booking, skill mismatches, and unavaila
 * Extended RBAC (ADMIN / MANAGER / EMPLOYEE)
 
 
-## 📜 License
+##  License
 
 This project is developed for **educational purposes** as part of an academic laboratory course.
 
